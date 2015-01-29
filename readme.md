@@ -52,3 +52,4 @@
 | fg                        | Memindahkan proses ke foreground.                                                | fg %1                                 |
 | kill                      | Menghentikan proses berdasarkan PID.                                             | kill 12345                            |
 | killall                   | Menghentikan semua proses berdasarkan pattern.                                   | killall git                           |
+| vmstat                    | Menampilkan system resource (memory, swap dan disk I/O).                         | vmstat                                |
