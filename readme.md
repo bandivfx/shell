@@ -45,3 +45,4 @@
 | chgrp                     | Rubah pemilik grup.                                                              | chgrp admin file.txt                  |
 | passwd                    | Rubah password user.                                                             | passwd                                |
 | ps                        | Melaporkan snapshot dari proses saat ini.                                        | ps                                    |
+| top                       | Menampilkan proses yang sedang berjalan.                                         | pos                                   |
