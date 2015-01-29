@@ -47,3 +47,5 @@
 | ps                        | Melaporkan snapshot dari proses saat ini.                                        | ps                                    |
 | top                       | Menampilkan proses yang sedang berjalan.                                         | pos                                   |
 | jobs                      | Menampilkan proses yang dijalankan dari terminal.                                | jobs                                  |
+| bg                        | Memindahkan proses ke background.                                                | bg %1                                 |
+| fg                        | Memindahkan proses ke foreground.                                                | fg %1                                 |
