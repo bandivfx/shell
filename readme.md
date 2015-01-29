@@ -49,3 +49,4 @@
 | jobs                      | Menampilkan proses yang dijalankan dari terminal.                                | jobs                                  |
 | bg                        | Memindahkan proses ke background.                                                | bg %1                                 |
 | fg                        | Memindahkan proses ke foreground.                                                | fg %1                                 |
+| kill                      | Menghentikan proses berdasarkan PID.                                             | kill 12345                            |
