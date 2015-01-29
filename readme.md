@@ -44,3 +44,4 @@
 | chown                     | Rubah pemilik suatu file.                                                        | chown heru file.txt                   |
 | chgrp                     | Rubah pemilik grup.                                                              | chgrp admin file.txt                  |
 | passwd                    | Rubah password user.                                                             | passwd                                |
+| ps                        | Melaporkan snapshot dari proses saat ini.                                        | ps                                    |
