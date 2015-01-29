@@ -44,7 +44,8 @@
 | chown                     | Rubah pemilik suatu file.                                                        | chown heru file.txt                   |
 | chgrp                     | Rubah pemilik grup.                                                              | chgrp admin file.txt                  |
 | passwd                    | Rubah password user.                                                             | passwd                                |
-| ps                        | Melaporkan snapshot dari proses saat ini.                                        | ps                                    |
+| ps                        | Menampilkan snapshot dari proses saat ini.                                       | ps                                    |
+| pstree                    | Menampilkan snapshot dari proses saat ini dengan bentuk tree.                    | pstree                                |
 | top                       | Menampilkan proses yang sedang berjalan.                                         | pos                                   |
 | jobs                      | Menampilkan proses yang dijalankan dari terminal.                                | jobs                                  |
 | bg                        | Memindahkan proses ke background.                                                | bg %1                                 |
