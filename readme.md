@@ -32,7 +32,7 @@
 | grep                      | Menampilkan baris yang cocok dengan pattern.                                     | ls &#124; grep heru                   |
 | head                      | Menampilkan 10 baris pertama suatu file.                                         | head file.txt                         |
 | tail                      | Menampilkan 10 baris terakhir suatu file.                                        | tail file.txt                         |
-| tee                       | Mengambil output dari perintah kemudian memasukkan ke file.                      | ls &#124; tee file.txt                |                   |
+| tee                       | Mengambil output dari perintah kemudian memasukkan ke file.                      | ls &#124; tee file.txt                |
 | echo                      | Menampilkan teks pada terminal.                                                  | echo "tes"                            |
 | clear                     | Membersihkan layar terminal.                                                     | clear                                 |
 | history                   | Menampilkan history perintah.                                                    | history                               |
@@ -50,3 +50,4 @@
 | bg                        | Memindahkan proses ke background.                                                | bg %1                                 |
 | fg                        | Memindahkan proses ke foreground.                                                | fg %1                                 |
 | kill                      | Menghentikan proses berdasarkan PID.                                             | kill 12345                            |
+| killall                   | Menghentikan semua proses berdasarkan pattern.                                   | killall git                           |
