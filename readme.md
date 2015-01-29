@@ -19,7 +19,7 @@
 | type                      | Menampilkan tipe perintah.                                                       | type cd                               |
 | which                     | Menampilkan letak file executable.                                               | which mv                              |
 | help                      | Menampilkan bantuan                                                              | help cd                               |
-| man                       | Menampilkan manual suatu program.                                                | man ls                                |
+| man                       | Menampilkan manual suatu perintah.                                               | man ls                                |
 | apropos                   | Menampilkan daftar perintah yang sesuai berdasarkan manual.                      | apropos "remove files"                |
 | whatis                    | Menampilkan deskripsi perintah dalam satu baris.                                 | whatis ls                             |
 | info                      | Menampilkan halaman info perintah.                                               | info ls                               |
