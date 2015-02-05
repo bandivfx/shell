@@ -46,7 +46,7 @@
 | passwd                    | Rubah password user.                                                             | passwd                                |
 | ps                        | Menampilkan snapshot dari proses saat ini.                                       | ps                                    |
 | pstree                    | Menampilkan snapshot dari proses saat ini dalam bentuk tree view.                | pstree                                |
-| top                       | Menampilkan proses yang sedang berjalan.                                         | pos                                   |
+| top                       | Menampilkan proses yang sedang berjalan.                                         | top                                   |
 | jobs                      | Menampilkan proses yang dijalankan dari terminal.                                | jobs                                  |
 | bg                        | Memindahkan proses ke background.                                                | bg %1                                 |
 | fg                        | Memindahkan proses ke foreground.                                                | fg %1                                 |
